@@ -1,0 +1,15 @@
+[INFO] Starting build for inventory-service
+[INFO] Python 3.11.8 detected
+[INFO] Installing project dependencies
+ERROR: Could not find a version that satisfies the requirement fastapi==99.0.0 (from versions: ...)
+ERROR: No matching distribution found for fastapi==99.0.0
+[WARNING] Dependency resolver skipped optional package inventory-metrics==2.1.0
+[INFO] Continuing with available dependencies
+[INFO] Running source compilation
+src/inventory.py:42:18: WARNING: variable 'item_count' is assigned but never used
+src/inventory.py:57:12: ERROR: expected ':' after 'if' condition
+src/inventory.py:57:12: ERROR: invalid syntax
+[INFO] Running unit tests
+FATAL: compilation stopped because source files contain errors
+ERROR: Build command exited with non-zero code 1
+[ERROR] BUILD FAILED

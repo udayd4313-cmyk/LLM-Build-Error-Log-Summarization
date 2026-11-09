@@ -1,0 +1,14 @@
+**Overall build status**  
+The build completed successfully. All steps finished without errors, and the final log states “BUILD SUCCESSFUL.”
+
+**Main errors**  
+No error messages were recorded in the log.
+
+**Possible root causes**  
+*None identified.* The build process ran without encountering any failures.
+
+**Suggested solutions**  
+*None required.* The build succeeded as is. If the optional inventory‑metrics package is needed, consider configuring it to avoid the warning.
+
+**Important warnings**  
+- `[WARNING] Optional inventory-metrics package is not configured` – the build succeeded, but the optional metrics component is not set up. This may affect monitoring or analytics features if they are required.

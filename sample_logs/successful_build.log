@@ -1,0 +1,11 @@
+[INFO] Starting build for inventory-service
+[INFO] Python 3.11.8 detected
+[INFO] Resolving dependencies
+[INFO] Installed fastapi==0.110.0
+[INFO] Compiling 18 source files
+[INFO] Compilation completed successfully
+[INFO] Running unit tests
+[INFO] 24 tests passed, 0 tests failed
+[WARNING] Optional inventory-metrics package is not configured
+[INFO] Packaging application
+[INFO] BUILD SUCCESSFUL
